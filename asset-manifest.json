@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Imagi2rey/CryCru/static/css/main.ebfde1ba.chunk.css",
+    "main.js": "/Imagi2rey/CryCru/static/js/main.75d27dca.chunk.js",
+    "main.js.map": "/Imagi2rey/CryCru/static/js/main.75d27dca.chunk.js.map",
+    "runtime-main.js": "/Imagi2rey/CryCru/static/js/runtime-main.12400691.js",
+    "runtime-main.js.map": "/Imagi2rey/CryCru/static/js/runtime-main.12400691.js.map",
+    "static/js/2.17e8f79c.chunk.js": "/Imagi2rey/CryCru/static/js/2.17e8f79c.chunk.js",
+    "static/js/2.17e8f79c.chunk.js.map": "/Imagi2rey/CryCru/static/js/2.17e8f79c.chunk.js.map",
+    "index.html": "/Imagi2rey/CryCru/index.html",
+    "precache-manifest.e4d9de75e6e27666b29f8825a6d1467f.js": "/Imagi2rey/CryCru/precache-manifest.e4d9de75e6e27666b29f8825a6d1467f.js",
+    "service-worker.js": "/Imagi2rey/CryCru/service-worker.js",
+    "static/css/main.ebfde1ba.chunk.css.map": "/Imagi2rey/CryCru/static/css/main.ebfde1ba.chunk.css.map",
+    "static/js/2.17e8f79c.chunk.js.LICENSE.txt": "/Imagi2rey/CryCru/static/js/2.17e8f79c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12400691.js",
+    "static/js/2.17e8f79c.chunk.js",
+    "static/css/main.ebfde1ba.chunk.css",
+    "static/js/main.75d27dca.chunk.js"
+  ]
+}
